@@ -35,3 +35,9 @@ Este juego incluye integración con **Google AdSense** para mostrar anuncios rel
 <meta name="google-adsense-account" content="ca-pub-8675038783532217">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8675038783532217"
   crossorigin="anonymous"></script>
+
+🌐 Juega ahora
+Disponible en GitHub Pages: https://pdomcar-css.github.io/juego-caza
+
+📈 Créditos
+Desarrollado por Pedro
